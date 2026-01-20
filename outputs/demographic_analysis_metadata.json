@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-01-20T23:26:43.366137",
+  "records_analyzed": 1597386,
+  "states": 36,
+  "districts": 974,
+  "pincodes": 19741,
+  "date_range": {
+    "start": "2025-03-01",
+    "end": "2025-12-29"
+  },
+  "power_metrics": {
+    "demo_access_inequality_ratio": 39.28730893321151,
+    "weekend_pattern_pct": 90.3147507838199,
+    "service_deserts_count": 100,
+    "high_volume_districts": 50
+  },
+  "data_quality": {
+    "original_records": 2071700,
+    "final_records": 1597386,
+    "records_removed": 474314,
+    "states_standardized": "65 -> 36"
+  }
+}

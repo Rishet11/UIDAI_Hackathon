@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-01-20T23:14:44.336266",
+  "records_analyzed": 1765681,
+  "states": 36,
+  "districts": 973,
+  "pincodes": 19707,
+  "date_range": {
+    "start": "2025-03-01",
+    "end": "2025-12-29"
+  },
+  "power_metrics": {
+    "bio_access_inequality_ratio": 68.91933508239887,
+    "weekend_penalty_pct": -32.76623316018638,
+    "service_deserts_count": 100,
+    "high_stress_districts": 50
+  },
+  "data_quality": {
+    "original_records": 1861108,
+    "final_records": 1765681,
+    "records_removed": 95427,
+    "states_standardized": "57 -> 36"
+  }
+}
