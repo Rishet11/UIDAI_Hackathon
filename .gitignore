@@ -1,0 +1,30 @@
+# Datasets - don't push to git
+dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Outputs (optional - remove if you want to include PDFs/HTMLs)
+# *.pdf
+# *.html
